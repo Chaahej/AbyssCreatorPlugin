@@ -1,0 +1,16 @@
+name: AbyssCreator
+
+author: JA
+website:
+main: AbyssCreatorPlugin
+
+commands:
+    abyss:
+        description: Create holes.
+        usage: /abyss <radius>
+
+    lavaPool:
+        description: Create pools of lava.
+        usage: /lavaPool <radius>
+
+version: 0.1
